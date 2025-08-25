@@ -24,3 +24,6 @@ The objective of this project is to design an interactive Power BI dashboard usi
  
 ## Dashboard
 <img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/bfce603f-6dc9-4061-b5de-10cefce32229" />
+
+## Final Conclusion
+The Netflix Power BI Dashboard successfully transforms raw data into interactive insights, showcasing content distribution, growth patterns, and audience trends across genres, ratings, countries, and years. It demonstrates the power of business intelligence tools in simplifying analysis and supporting decision-making. This project not only provides a deeper understanding of Netflix’s global content strategy but also helps improve analytical thinking, dashboard design skills, and the ability to derive actionable insights from complex datasets.
