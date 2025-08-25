@@ -1,2 +1,3 @@
-# Data-Analysis-Power-BI-Dashboard
-This project features an interactive Power BI dashboard built on the Netflix dataset, offering insights into content by genre, country, rating, and release year. Users can explore trends, analyze popular categories, and identify patterns in Netflix’s global library using dynamic filters and slicers.
+# Netflix-Data-Analysis-PowerBI-Dashboard
+## Project Objective
+The objective of this project is to design an interactive Power BI dashboard using the Netflix dataset to analyze content distribution, uncover viewing trends, and provide insights into genres, ratings, countries, and release years for better understanding of Netflix’s global content strategy.
