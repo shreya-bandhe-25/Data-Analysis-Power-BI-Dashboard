@@ -22,3 +22,5 @@ The objective of this project is to design an interactive Power BI dashboard usi
 5. Analysis – Explored trends by genre, rating, country, and release year.
 6. Output – Delivered an interactive Power BI dashboard with key insights.
  
+## Dashboard
+<img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/bfce603f-6dc9-4061-b5de-10cefce32229" />
